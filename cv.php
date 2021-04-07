@@ -1,6 +1,6 @@
 <?php
 
-$name = 'Ricardo Andres Zambrano Cuaicuan';
+$name = 'Ricardo Andres Zambrano C';
 
 $jobs = [
   [
@@ -56,7 +56,7 @@ $jobs = [
         <h1><?php echo $name; ?></h1>
         <h2>PHP Developer</h2>
         <ul>
-          <li>Mail: rzambrano112@mail.com</li>
+          <li>Mail: rzambranostudy@mail.com</li>
           <li>Phone: 3157082791</li>
           <li>LinkedIn: https://linkedin.com</li>
           <li>Twitter: @smarthricardo</li>
